@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João Paulo Peres | Estagiário em TI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-paulo-peres-167999218)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-peres-167999218)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaopauloo1921/)
 
 ![João Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPaulo1722&show_icons=true&theme=transparent)
